@@ -4,9 +4,9 @@ pipeline {
     }
 
     stages {
-        stage('Hello') {
+        stage('Time') {
             steps {
-                echo '202206050133'
+                echo '202206070105'
             }
         }
     }
